@@ -2,6 +2,12 @@
     margin-bottom: 20px;
 }
 
+#ref{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
 h1{
     width: 700px;
     text-align: center;
